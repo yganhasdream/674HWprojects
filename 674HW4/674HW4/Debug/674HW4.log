@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\73444\source\repos\674HW4\674HW4\Source.cpp(91,15): error C2059: syntax error: ')'
+C:\Users\73444\source\repos\674HW4\674HW4\Source.cpp(142,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\73444\source\repos\674HW4\674HW4\Source.cpp(201,16): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\73444\source\repos\674HW4\674HW4\Source.cpp(205,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\73444\source\repos\674HW4\674HW4\Source.cpp(210,14): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1252)
+C:\Users\73444\source\repos\674HW4\674HW4\Source.cpp(218,14): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1252)
